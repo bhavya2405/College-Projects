@@ -1,2 +1,2 @@
 # College-Projects
-Here are the college projects i have done through out my Msc Business Analytics course
+Here are some of the college projects I have done through out my Msc Business Analytics course
